@@ -12,13 +12,6 @@ The application has three components:
 
 ---
 
-## ⚙️ Requirements
-
-Create a `requirements.txt` file with the content below and install with:
-
-```bash
-pip install -r requirements.txt
-
 
 
 ## Execution
