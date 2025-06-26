@@ -1,4 +1,4 @@
-# Car Value and Classification Prediction App
+# Used Car Value Prediction App
 
 ## Description
 
